@@ -1,0 +1,23 @@
+# NullPantry
+
+> Give agents permission-aware knowledge and long-term memory through hybrid retrieval and citation-backed answers. Headless API with 197 routes and 17 backends.
+
+Part of the Null ecosystem (https://nullmenu.ai) — single-binary Zig tools for running AI agents on your own hardware. All components are pre-1.0 with CalVer releases. The links below point to canonical documentation pages.
+
+## Start
+
+- [Install](https://pantry.nullmenu.ai/docs/start/install/): Run NullPantry from the published Docker image or build it from source with Zig 0.16.0.
+- [Quickstart](https://pantry.nullmenu.ai/docs/start/quickstart/): Start the server, make a first request, and understand the defaults.
+
+## Guides
+
+- [NullClaw memory](https://pantry.nullmenu.ai/docs/guides/nullclaw-memory/): Connect one or many NullClaw agents to NullPantry as their remote memory backend.
+- [Backends](https://pantry.nullmenu.ai/docs/guides/backends/): Records, agent memory and vector stores — what to compile in and how to configure each family.
+
+## Reference
+
+- [API](https://pantry.nullmenu.ai/docs/reference/api/): Route groups, auth model, runtime flags and environment variables.
+
+## Source
+
+- [GitHub](https://github.com/nullclaw/nullpantry)
